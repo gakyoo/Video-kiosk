@@ -55,6 +55,6 @@ if(isset($_GET['item']) || isset($_GET['category'])){
 }
 
 ?>
-			</div><!-- end right pane -->
+	</div><!-- end right pane -->
 			
 <?php require_once("layouts/footer.php"); ?>
